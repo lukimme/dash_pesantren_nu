@@ -1,0 +1,1 @@
+export const Kecamatan = ['lowokwaru', 'blimbing', 'kedungkandang', 'klojen', 'sukun']
